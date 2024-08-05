@@ -1,4 +1,4 @@
-in folder databases put "database_name"/"collection_name"<br></br>
+in folder databases put "database_name"/"collection_name"<br>
 ex:<br></br>
     databases:<br></br>
         -database1:<br></br>
