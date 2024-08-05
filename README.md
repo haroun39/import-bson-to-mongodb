@@ -1,23 +1,23 @@
 in folder databases put "database_name"/"collection_name"<br>
-ex:<br></br>
-    databases:<br></br>
-        -database1:<br></br>
-            --collection1.bson<br></br>
-            --collection2.bson<br></br>
-            --collection3.bson<br></br>
-        -database2:<br></br>
-            --collection1.bson<br></br>
-            --collection2.bson<br></br>
-            --collection3.bson<br></br>
+ex:<br>
+    databases:<br>
+        -database1:<br>
+            --collection1.bson<br>
+            --collection2.bson<br>
+            --collection3.bson<br>
+        -database2:<br>
+            --collection1.bson<br>
+            --collection2.bson<br>
+            --collection3.bson<br>
 result<br></br>
-    databases_for_mongo:<br></br>
-        -database1:<br></br>
-            --collection1.json<br></br>
-            --collection2.json<br></br>
-            --collection3.json<br></br>
-        -database2:<br></br>
-            --collection1.json<br></br>
-            --collection2.json<br></br>
-            --collection3.json<br></br>
+    databases_for_mongo:<br>
+        -database1:<br>
+            --collection1.json<br>
+            --collection2.json<br>
+            --collection3.json<br>
+        -database2:<br>
+            --collection1.json<br>
+            --collection2.json<br>
+            --collection3.json<br>
 
 and uplode in your mongodb server 
