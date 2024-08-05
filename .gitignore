@@ -12,5 +12,4 @@ dist
 package-lock.json
 uploads/*
 logs/*
-databases/*
 databases_for_mongo/*
