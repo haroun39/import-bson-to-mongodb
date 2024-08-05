@@ -1,0 +1,324 @@
+[
+  {
+    "_id": "6681a0f8b533e687057193cc",
+    "reference": "o4CpCo7w",
+    "note": "اشتراك سيرفر مدة 1 سنة",
+    "price": 47000,
+    "type": "expenses",
+    "sites": [],
+    "deleted": true,
+    "createdAt": "2024-06-30T18:16:24.113Z",
+    "updatedAt": "2024-07-29T11:17:28.559Z",
+    "__v": 0,
+    "deletedAt": "2024-07-29T11:17:28.558Z"
+  },
+  {
+    "_id": "6685517678739d603dadd4fa",
+    "reference": "5djMWkeN",
+    "note": "",
+    "price": 100,
+    "type": "receiving",
+    "sites": [
+      {
+        "site": "",
+        "version": "",
+        "price": "0",
+        "_id": "6685517678739d603dadd4fb"
+      }
+    ],
+    "deleted": true,
+    "createdAt": "2024-07-03T13:26:14.735Z",
+    "updatedAt": "2024-07-20T23:50:53.276Z",
+    "__v": 0,
+    "deletedAt": "2024-07-20T23:50:53.275Z"
+  },
+  {
+    "_id": "669c4a2cdbae85aa4d04c7f0",
+    "reference": "3rGeDxtu",
+    "note": "تجريب",
+    "price": 184000,
+    "type": "receiving",
+    "sites": [
+      {
+        "site": "outigamme.com",
+        "version": "custom",
+        "price": "30000",
+        "_id": "6685704978739d603dadd652"
+      },
+      {
+        "site": "bousnina-skincare.bi3li.shop",
+        "version": "custom",
+        "price": "25000",
+        "_id": "668bdca8cb848ffdac591f4e"
+      },
+      {
+        "site": "km-store.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "668db4a22c58e9ffda736fda"
+      },
+      {
+        "site": "parapharm-medellel.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "668e7f5ac4643319bc13f768"
+      },
+      {
+        "site": "akira-shoes.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "668ff72ab1bb069a030cb331"
+      },
+      {
+        "site": "basicstuff.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "6693e4da66242b7bfa71a1ec"
+      },
+      {
+        "site": "casquettevip.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "6694cab805d2bd6835f6fe61"
+      },
+      {
+        "site": "km-boutique.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "6697e21605d2bd6835f941fb"
+      },
+      {
+        "site": "affairestor.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "669a9246a0ef771ed65b215b"
+      }
+    ],
+    "deleted": true,
+    "createdAt": "2024-07-20T23:37:16.985Z",
+    "updatedAt": "2024-07-29T11:17:44.603Z",
+    "__v": 0,
+    "deletedAt": "2024-07-29T11:17:44.602Z"
+  },
+  {
+    "_id": "669c4c40197d9aef15595994",
+    "reference": "lU9kPSOa",
+    "note": "تم الاستلام من طرف علي",
+    "price": 73600,
+    "type": "receiving",
+    "sites": [
+      {
+        "site": "outigamme.com",
+        "version": "custom",
+        "price": "30000",
+        "_id": "6685704978739d603dadd652"
+      },
+      {
+        "site": "bousnina-skincare.bi3li.shop",
+        "version": "custom",
+        "price": "25000",
+        "_id": "668bdca8cb848ffdac591f4e"
+      },
+      {
+        "site": "km-store.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "668db4a22c58e9ffda736fda"
+      },
+      {
+        "site": "parapharm-medellel.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "668e7f5ac4643319bc13f768"
+      },
+      {
+        "site": "akira-shoes.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "668ff72ab1bb069a030cb331"
+      },
+      {
+        "site": "basicstuff.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "6693e4da66242b7bfa71a1ec"
+      },
+      {
+        "site": "casquettevip.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "6694cab805d2bd6835f6fe61"
+      },
+      {
+        "site": "km-boutique.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "6697e21605d2bd6835f941fb"
+      },
+      {
+        "site": "affairestor.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "669a9246a0ef771ed65b215b"
+      }
+    ],
+    "deleted": true,
+    "createdAt": "2024-07-20T23:46:08.954Z",
+    "updatedAt": "2024-07-20T23:50:42.864Z",
+    "__v": 0,
+    "deletedAt": "2024-07-20T23:50:42.862Z"
+  },
+  {
+    "_id": "669c506b197d9aef15597de2",
+    "reference": "1V23k4CF",
+    "note": "",
+    "price": 73600,
+    "type": "receiving",
+    "sites": [
+      {
+        "site": "outigamme.com",
+        "version": "custom",
+        "price": "30000",
+        "_id": "6685704978739d603dadd652"
+      },
+      {
+        "site": "bousnina-skincare.bi3li.shop",
+        "version": "custom",
+        "price": "25000",
+        "_id": "668bdca8cb848ffdac591f4e"
+      },
+      {
+        "site": "km-store.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "668db4a22c58e9ffda736fda"
+      },
+      {
+        "site": "parapharm-medellel.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "668e7f5ac4643319bc13f768"
+      },
+      {
+        "site": "akira-shoes.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "668ff72ab1bb069a030cb331"
+      },
+      {
+        "site": "basicstuff.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "6693e4da66242b7bfa71a1ec"
+      },
+      {
+        "site": "casquettevip.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "6694cab805d2bd6835f6fe61"
+      },
+      {
+        "site": "km-boutique.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "6697e21605d2bd6835f941fb"
+      },
+      {
+        "site": "affairestor.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "669a9246a0ef771ed65b215b"
+      }
+    ],
+    "deleted": true,
+    "createdAt": "2024-07-21T00:03:55.663Z",
+    "updatedAt": "2024-07-21T09:59:44.197Z",
+    "__v": 0,
+    "deletedAt": "2024-07-21T09:59:44.196Z"
+  },
+  {
+    "_id": "66a779f32579ae15e9277446",
+    "reference": "kh3BpHdK",
+    "note": "",
+    "price": 96400,
+    "type": "receiving",
+    "sites": [
+      {
+        "site": "outigamme.com",
+        "version": "custom",
+        "price": "30000",
+        "_id": "6685704978739d603dadd652"
+      },
+      {
+        "site": "bousnina-skincare.bi3li.shop",
+        "version": "custom",
+        "price": "25000",
+        "_id": "668bdca8cb848ffdac591f4e"
+      },
+      {
+        "site": "km-store.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "668db4a22c58e9ffda736fda"
+      },
+      {
+        "site": "parapharm-medellel.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "668e7f5ac4643319bc13f768"
+      },
+      {
+        "site": "akira-shoes.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "668ff72ab1bb069a030cb331"
+      },
+      {
+        "site": "mit-dz.com",
+        "version": "pro",
+        "price": "21000",
+        "_id": "6691881e912e937a66a056f5"
+      },
+      {
+        "site": "basicstuff.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "6693e4da66242b7bfa71a1ec"
+      },
+      {
+        "site": "casquettevip.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "6694cab805d2bd6835f6fe61"
+      },
+      {
+        "site": "el-kalaa.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "6696f54005d2bd6835f8351e"
+      },
+      {
+        "site": "km-boutique.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "6697e21605d2bd6835f941fb"
+      },
+      {
+        "site": "affairestor.bi3li.shop",
+        "version": "basic",
+        "price": "15000",
+        "_id": "669a9246a0ef771ed65b215b"
+      },
+      {
+        "site": "magicalmedical.bi3li.shop",
+        "version": "pro",
+        "price": "21000",
+        "_id": "669ea574c1aa8f267960c560"
+      }
+    ],
+    "deleted": false,
+    "createdAt": "2024-07-29T11:16:03.526Z",
+    "updatedAt": "2024-07-29T11:16:03.526Z",
+    "__v": 0
+  }
+]
