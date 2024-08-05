@@ -20,4 +20,4 @@ result<br></br>
             --collection2.json<br>
             --collection3.json<br>
 
-and uplode in your mongodb server 
+then it'll be uploaded in your mongodb server 
